@@ -18,7 +18,7 @@ Built on Arduino 1.8.10.
   * (1) x 220 ohm resistor
   * (26) x M-M wires (Male to Male jumper wires)
   
- #Libraries
+ # Libraries
  
   * <LiquidCrystal.h> -- Liquid crystal is used to run the LCD screen.
 
