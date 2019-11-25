@@ -4,7 +4,7 @@ Proximity Alarm that detects nearby objects and set off a buzzing noise when und
 
 Built on Arduino 1.8.10.
 
-# Parts list:
+# Parts list
   
   * (1) x Elegoo Uno R3
   * (1) x USB cable
