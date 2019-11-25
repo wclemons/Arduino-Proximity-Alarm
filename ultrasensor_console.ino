@@ -2,7 +2,8 @@
     * Nathan Nhek
     * 
     * Proximity Alarm
-    * Detect nearby objects and set off a buzzing noise when under a certain distance. Also display the distance to a LCD screen.
+    * Detect nearby objects and set off a buzzing noise when under a certain distance. 
+    * Set to display the distance to a LCD screen.
     */
     // include the library that contains the #defines for all passive buzzer pitches
     #include "pitches.h"
